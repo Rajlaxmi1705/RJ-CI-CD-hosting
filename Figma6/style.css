@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.fpage{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.spage{
+    width: 100vw;
+    height: 335px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.tpage{
+    width: 100vw;
+    height: 800px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.fpage{
+    width: 100vw;
+    height: 805px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.ffpage{
+    width: 100vw;
+    height: 1128px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.sixpage{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.sspage{
+    width: 100vw;
+    height: 805px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.epage{
+    width: 100vw;
+    height: 595px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.npage{
+    width: 100vw;
+    height: 345px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.fimg{
+    width: 100vw;
+    height: 825;
+    box-sizing: border-box;
+
+}
+.simg{
+    width: 100vw;
+height: 335px;
+}
+.timg{
+    width: 100vw;
+height: 800px;
+
+}
+.fimg{
+    width: 100vw;
+height: 805px;
+
+
+}
+.ffimg{
+    width: 100vw;
+height: 1128px;
+
+
+}
+.siximg{
+    width: 100vw;
+height: 100vh; 
+
+
+}
+.ssimg{
+    width: 100vw;
+height: 865px;
+
+
+}
+.eimg{
+    width: 100vw;
+height: 595px;
+
+}
+.nimg{
+    width: 100vw;
+height: 345px;
+
+
+}
