@@ -1,109 +1,263 @@
 *{
-    margin: 0px;
-    padding: 0px;
-
+    margin: 0;
+    padding: 0;
+    
 }
-.fpage{
+body{
     width: 100vw;
     height: 100vh;
-    justify-content: center;
+   flex-shrink: 0;
+   box-sizing: border-box;
+}
+#Home{
+    height: 835px;
+    width: 100vw;
+    background-color: rgb(149, 194, 149) (215, 232, 232);
     box-sizing: border-box;
+
+}
+.head{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+ display: flex;
+ gap: 10px;
+ margin-top: 20px;
+
+}
+ul{
+    display: flex;
+    gap: 30px;
+}
+:root{
+    scroll-behavior: smooth;
+}
+
+.navbutton{
+    justify-content: space-between;
+    margin-right: 40px;
+    gap: 10px;
+    margin-top: 20px;
+ 
+   
+
+
+}
+.butt{
+    height: 20px;
+    width:80px ;
+    padding: 20px;
+    border: 0px;
+    border-radius: 10px;
+    color: green;
+
+
+}
+.butt1{
+    height: 20px;
+    width:120px ;
+    padding: 20px;
+   background-color: rgb(146, 239, 146);
+   border-radius: 10px;
+}
+.fpage{
+    width: 690px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+}
+.butt2{
+    padding: 10px;
+    background-color: rgb(110, 216, 110);
+    border-radius: 5px;
+
+}
+.butt3{
+    padding: 10px;
+    color: rgb(102, 157, 102);
+    border-radius: 5px;
+}
+.logobox{
+    width: 1100px;
+    height: 200px;
+    justify-content: center;
+    margin-left: 250px;
 }
 .spage{
+    height: 800px;
+    width: 400px;
+    margin-left: 200px;margin-top: 100px;
+}
+.img{
+    height: 230px;
+    width: 280px;
+    box-shadow: none;
+    
+}
+.cointainer1{
+    display: flex;
+}
+.Cources{
+    display: flex;
+    margin: auto;
+    margin-left: 250px;
+    gap: 100px;
+    height: 805px;
     width: 100vw;
-    height: 335px;
-    justify-content: center;
+    margin-top: 15%;
+
+}
+.img1{
+    height: 350px;
+    width: 400px;
+    
+}
+.img2{
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 40px;
+    
+}
+.line{
+    width:60px;
+    border-top: 5px solid orangered;
+    padding-bottom: 10px;
+    margin-left: 40px;
+}
+
+
+#Product{
+    
+    background-color: rgb(149, 194, 149) (215, 232, 232);
     box-sizing: border-box;
+
 }
 .tpage{
-    width: 100vw;
-    height: 800px;
+    margin-left: 250px;
+
+}
+.midpage{
+    height: 135px;
+    width: 690px;
+}
+.cointainer2{
+    display: flex;
+    gap: 15px;
+
+}
+.box1{
+    display: flex;
+    gap: 10px;
+}
+.photo{
+height: 700px;
+width: 240px;
+}
+.box2{
+    height:930px ;
+    width:350px ;
+
+}
+.cointainer3{
+    display: flex;
+    gap: 10px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.style{
+    margin-left: 250px;
+    width: 400px;
+    height: 200px;
+}
+.containbox{
+
+    margin-left: 250px;
+    margin-bottom: 25px;
+    width: 450px;
+    margin-top: 352px;
+}
+.cointainbox1{
+    height: 650px;
+    width: 400px;
+    text-align: center;
+   
+
+}
+.cointainer4{
+    display: flex;
+    margin: auto;
+    margin-left: 250px;
+    justify-content: space-between;
+    margin-right: 80px;
+
+}
+.pic{
+    height: 250px;
+    width: 250px;
+    border-radius: 140px;
+}
+#Pricing{
+    
+        height: 100vh;
+        width: 100vw;
+        background-color: rgb(149, 194, 149) (215, 232, 232);
+        box-sizing: border-box;
+    
+}
+#Contact{
+        height: 100px;
+        width: 100vw;
+        background-color: rgb(149, 194, 149) (215, 232, 232);
+        box-sizing: border-box;
+    
+ }
+ .tact{
+    height: 400px;
+    width: 400px;
+    margin-left: 250px;
     justify-content: center;
-    box-sizing: border-box;
-}
-.fpage{
-    width: 100vw;
-    height: 805px;
+    text-align: center;
+    margin: auto;
+
+ }
+ .emailbox{
+    width: 400px;
+    height: 10px;
+    display: flex;
+    margin-top: 20px;
+    text-align: center;
+ }
+ .mail{
+    padding: 20px;
+    width: 600px;
+   
+ }
+ .buttt{
+    padding: 20px;
+    width: 200px;
+    background-color: green;
+ }
+
+ .footer{
+    height: 400px;
+    margin: auto;
     justify-content: center;
-    box-sizing: border-box;
-}
-.ffpage{
-    width: 100vw;
-    height: 1128px;
-    justify-content: center;
-    box-sizing: border-box;
-}
-.sixpage{
-    width: 100vw;
-    height: 100vh;
-    justify-content: center;
-    box-sizing: border-box;
-}
-.sspage{
-    width: 100vw;
-    height: 805px;
-    justify-content: center;
-    box-sizing: border-box;
-}
-.epage{
-    width: 100vw;
-    height: 595px;
-    justify-content: center;
-    box-sizing: border-box;
-}
-.npage{
-    width: 100vw;
-    height: 345px;
-    justify-content: center;
-    box-sizing: border-box;
-}
-.fimg{
-    width: 100vw;
-    height: 825;
-    box-sizing: border-box;
+   
+ }
+.foot{
 
+    height: 400px;
+    height: 400px;
+    
+  
 }
-.simg{
-    width: 100vw;
-height: 335px;
-}
-.timg{
-    width: 100vw;
-height: 800px;
-
-}
-.fimg{
-    width: 100vw;
-height: 805px;
 
 
-}
-.ffimg{
-    width: 100vw;
-height: 1128px;
 
-
-}
-.siximg{
-    width: 100vw;
-height: 100vh; 
-
-
-}
-.ssimg{
-    width: 100vw;
-height: 865px;
-
-
-}
-.eimg{
-    width: 100vw;
-height: 595px;
-
-}
-.nimg{
-    width: 100vw;
-height: 345px;
-
-
-}
